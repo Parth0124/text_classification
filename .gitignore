@@ -1,4 +1,4 @@
 *.env
 *.pkl
-/taskenv/
+/textenv/
 /IMDB Dataset.csv/
